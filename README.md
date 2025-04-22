@@ -1,4 +1,4 @@
-# Ex7 Frequency Shift Keying (FSK)
+# Ex 7 Frequency Shift Keying (FSK)
 ## Date:22/04/25
 ### Aim
      Implement and analyze modulation and demodulation of Frequency Shift Keying (FSK) using Python colab
