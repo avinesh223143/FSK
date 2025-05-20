@@ -1,5 +1,5 @@
-# Ex 7 Frequency Shift Keying (FSK)
-## Date:22/04/25
+# Ex 3b Frequency Shift Keying (FSK)
+## Date:12/04/25
 ### Aim
      Implement and analyze modulation and demodulation of Frequency Shift Keying (FSK) using Python colab
 ### Tools required
